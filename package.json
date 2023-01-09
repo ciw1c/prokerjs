@@ -1,8 +1,8 @@
 {
   "name": "prokerjs",
   "version": "1.0.0",
-  "description": "A probability poker library",
-  "main": "init.js",
+  "description": "A Holdem Texas Poker probability library",
+  "main": "main.js",
   "scripts": {
     "test": "mocha"
   },
@@ -12,11 +12,13 @@
   },
   "keywords": [
     "poker",
-    "probability",
-    "holdem"
+    "holdem",
+    "texas",
+    "probability"
   ],
   "author": "ciw1c",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/ciw1c/prokerjs/issues"
   },
